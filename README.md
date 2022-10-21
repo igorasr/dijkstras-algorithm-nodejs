@@ -11,6 +11,7 @@ Será exibido no console o resultado do menor caminho.
 
 * **Lista**: Utilizando a função ```grafo.addListVertices(data)``` que recebe um objeto json que pode ser importado ou inserido diretamente na função, dentro do código ja existe um exemplo de importação;
     > const data  = require('./exemple.json')
+    
     > grafo.addListVertices(data)
 
 ##### Para alterar os vértices de inicio e fim 
